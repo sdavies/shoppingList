@@ -5,5 +5,5 @@
 - [X] Loft Branded Pens
 - [ ] Loft Branded Keychains
 - [ ] Branded Yubi Keys
-- [ ] Shaprie Pens
+- [X] Shaprie Pens
 - [ ] Loft branded security sliders laptops
