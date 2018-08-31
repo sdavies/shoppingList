@@ -1,6 +1,7 @@
 # Our Actual Shopping List
 
 ## Presentation Shoping List
-- [ ] Notepads
-- [ ] Loft Branded Pens
+- [x] Notepads
+- [X] Loft Branded Pens
+- [ ] Branded Yubi Keys
 - [ ] Shaprie Pens
