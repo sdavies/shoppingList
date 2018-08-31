@@ -4,4 +4,4 @@
 - [x] Notepads
 - [X] Loft Branded Pens
 - [ ] Branded Yubi Keys
-- [ ] Shaprie Pens
+- [X] Shaprie Pens
